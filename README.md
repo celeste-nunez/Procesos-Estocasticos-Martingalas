@@ -1,9 +1,5 @@
 # Procesos-Estocasticos-Martingalas
-Simulación de martingalas en tiempo discreto y continuo: caminatas aleatorias, procesos de Poisson y Poisson compuesto, movimiento browniano, martingalas exponenciales e integral de Itô en Python.
-
-# Procesos estocásticos y martingalas
-
-Simulación de martingalas en tiempo discreto y continuo, desde caminatas aleatorias hasta el movimiento browniano y la integral de Itô. Para cada proceso se simulan trayectorias y se compara la media empírica con la esperanza teórica. Implementado en Python.
+Simulación de martingalas en tiempo discreto y continuo: caminatas aleatorias, procesos de Poisson y Poisson compuesto, movimiento browniano, martingalas exponenciales e integral de Itô en Python. Para cada proceso se simulan trayectorias y se compara la media empírica con la esperanza teórica. Implementado en Python.
 
 ## Contenido
 
